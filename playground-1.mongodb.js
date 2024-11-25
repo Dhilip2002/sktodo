@@ -1,0 +1,6 @@
+use ("ToDoTask")
+//db.getCollectionNames()
+db.ChatHistory.deleteMany({})
+//db.annualreport.deleteMany({})
+//db.annualreport.find().pretty()
+//db.annualreport.find({FileName:"Microsoft 2022 Annual Report.pdf"})

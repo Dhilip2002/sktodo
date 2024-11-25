@@ -1,0 +1,6 @@
+@sktodo_HostAddress = http://localhost:5123
+
+GET {{sktodo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
